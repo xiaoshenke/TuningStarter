@@ -2,11 +2,8 @@ package wuxian.me.tuningstarter.jvm;
 
 import jdk.nashorn.internal.ir.debug.ObjectSizeCalculator;
 import org.junit.Test;
-import wuxian.me.tuningstarter.ObjectSizeFetcher;
 
 import java.util.ArrayList;
-
-import static org.junit.Assert.*;
 
 public class BigObjectTest {
 
