@@ -1,5 +1,5 @@
 *.iml
-src/main/java/wuxian.me.tuningstarter/jvm/*.log
+src/main/java/wuxian/me/tuningstarter/jvm/*.log
 .DS_Store
 .idea/*
 out
